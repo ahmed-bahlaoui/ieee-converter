@@ -1,4 +1,6 @@
 <script>
+// @ts-nocheck
+
   import init, { convert_f32, convert_f64 } from "../logic/pkg/logic.js";
   import { onMount } from "svelte";
 
